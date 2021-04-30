@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450720098802",
+    "project_id": "crypto-currency-90be2",
+    "storage_bucket": "crypto-currency-90be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450720098802:android:6d42642b452ee38c86e36b",
+        "android_client_info": {
+          "package_name": "com.example.payplaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450720098802-e0h19fc7n9hv48fak6qjrg5d3mjkte4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYghxpWpcK-ON2dfIrJY7XVs-fyITQgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450720098802-e0h19fc7n9hv48fak6qjrg5d3mjkte4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
